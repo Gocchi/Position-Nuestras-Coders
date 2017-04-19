@@ -3,18 +3,31 @@
 	padding: 0;
 }
 
-.galeria{
+body{
+	background-color: #F4CBC6;
+}
+.barra{
+	background-color: #F4AFAB;
+	width: 100%;
+	height: 40px;
+	margin-bottom: 30px;
+	font-size: 30px;
+	font-family: 'Amatic+SC', cursive;
+
+}
+
+section{
 	margin: 0;
-	padding: 0;
+	padding: 40px;
 }
 
 .foto{
 	width: 300px;
 	height: 300px;
-	float: left;
+
 
 }
 
-#silvana{
+#karla{
 	overflow: hidden;
 }
