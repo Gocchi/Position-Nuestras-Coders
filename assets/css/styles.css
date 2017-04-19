@@ -12,22 +12,40 @@ body{
 	height: 40px;
 	margin-bottom: 30px;
 	font-size: 30px;
-	font-family: 'Amatic+SC', cursive;
+	color: #F4F482;
+	font-family: 'Dancing Script', cursive;
 
-}
-
-section{
-	margin: 0;
-	padding: 40px;
 }
 
 .foto{
 	width: 300px;
 	height: 300px;
-
+	margin: 10px;
 
 }
 
-#karla{
-	overflow: hidden;
+.coders1{
+	position: relative;
+	left: 200px; 
 }
+
+.coders2{
+	position: relative;
+	left: 200px; 
+}
+.contenedor{
+	float: left;
+}
+
+ .nombre{
+	position: relative;
+	font-family: 'Amatic SC', cursive;
+	top: 20px;
+	left: 20px;
+	font-size: 50px;
+	color: #000;
+}
+
+
+
+
